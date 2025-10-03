@@ -1,0 +1,64 @@
+
+Host Name:                     FATIMA
+OS Name:                       Microsoft Windows 11 Home
+OS Version:                    10.0.26100 N/A Build 26100
+OS Manufacturer:               Microsoft Corporation
+OS Configuration:              Standalone Workstation
+OS Build Type:                 Multiprocessor Free
+Registered Owner:              ffa0065@gmail.com
+Registered Organization:       N/A
+Product ID:                    00342-21278-31276-AAOEM
+Original Install Date:         2025-07-14, 9:38:01 AM
+System Boot Time:              2025-09-26, 12:36:55 PM
+System Manufacturer:           ASUSTeK COMPUTER INC.
+System Model:                  ASUS Zenbook S 14 UX5406SA_UX5406SA
+System Type:                   x64-based PC
+Processor(s):                  1 Processor(s) Installed.
+                               [01]: Intel64 Family 6 Model 189 Stepping 1 GenuineIntel ~2100 Mhz
+BIOS Version:                  American Megatrends International, LLC. UX5406SA.303, 2024-11-08
+Windows Directory:             C:\Windows
+System Directory:              C:\Windows\system32
+Boot Device:                   \Device\HarddiskVolume1
+System Locale:                 en-us;English (United States)
+Input Locale:                  en-us;English (United States)
+Time Zone:                     (UTC-05:00) Eastern Time (US & Canada)
+Total Physical Memory:         15,888 MB
+Available Physical Memory:     6,244 MB
+Virtual Memory: Max Size:      16,912 MB
+Virtual Memory: Available:     3,411 MB
+Virtual Memory: In Use:        13,501 MB
+Page File Location(s):         C:\pagefile.sys
+Domain:                        WORKGROUP
+Logon Server:                  \\FATIMA
+Hotfix(s):                     5 Hotfix(s) Installed.
+                               [01]: KB5064401
+                               [02]: KB5050575
+                               [03]: KB5059093
+                               [04]: KB5065426
+                               [05]: KB5064531
+Network Card(s):               N/A
+Virtualization-based security: Status: Running
+                               Required Security Properties:
+                                     Base Virtualization Support
+                               Available Security Properties:
+                                     Base Virtualization Support
+                                     Secure Boot
+                                     DMA Protection
+                                     UEFI Code Readonly
+                                     SMM Security Mitigations 1.0
+                                     Mode Based Execution Control
+                                     APIC Virtualization
+                               Services Configured:
+                                     Hypervisor enforced Code Integrity
+                                     Secure Launch
+                                     SMM Firmware Measurement
+                               Services Running:
+                                     Hypervisor enforced Code Integrity
+                                     Secure Launch
+                                     SMM Firmware Measurement
+                               App Control for Business policy: Enforced
+                               App Control for Business user mode policy: Off
+                               Security Features Enabled:
+                               SMM Isolation Level: 30
+Hyper-V Requirements:          A hypervisor has been detected. Features required for Hyper-V will not be displayed.
+ffa00
