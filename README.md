@@ -6,3 +6,4 @@ such as local repository initialization, branching, merging and Github integrati
 1. Info - Contains system and user information 
 2. cookie.md - Contains a cookie recipe
 3. appetizer.md - Contains an appetizer recipe
+**Created by:** Fatima Farooq Ahmad
